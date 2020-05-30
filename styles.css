@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.btn:hover{
+    background: #28a78c;
+    color: white;
+}
+
+.btn {
+    font-weight: bold;
+}
